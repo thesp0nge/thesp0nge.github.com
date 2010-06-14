@@ -1,2 +1,7 @@
-h1. Home page
-This is the home page for thesp0nge.github.com
+h1. Readme
+
+This is the sources from thesp0nge.github.com page There is no magic here,
+just a bunch of HTML, some css borrowed from the NET and the book I'm reading
+and some inspiration from other amazing and stylish sites.
+
+
